@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1662409262 source:d:\usuario\desktop\connect\algoritmos e estruturas de dados\cinema\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<windows.h>
+
+1662757042 source:d:\usuario\desktop\connect\cinema\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<windows.h>
+	"biblioteca.h"
+
+1662757040 source:d:\usuario\desktop\connect\cinema\biblioteca.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<windows.h>
+	"biblioteca.h"
+
+1662756926 d:\usuario\desktop\connect\cinema\biblioteca.h
+
