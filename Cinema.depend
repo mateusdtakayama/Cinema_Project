@@ -21,3 +21,19 @@
 
 1662756926 d:\usuario\desktop\connect\cinema\biblioteca.h
 
+1663867667 source:d:\usuario\desktop\connect\cinema_project\biblioteca.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<windows.h>
+	"biblioteca.h"
+
+1663866560 d:\usuario\desktop\connect\cinema_project\biblioteca.h
+
+1663866560 source:d:\usuario\desktop\connect\cinema_project\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<windows.h>
+	"biblioteca.h"
+

@@ -22,7 +22,7 @@ void programa(int tam, struct poltrona cinema[tam][tam], char letra, int fileira
     do{
 
 
-            switch(menu()){
+            switch(opcao = menu()){
 
             case 1:
                 reservar(tam, cinema, letra, fileira, num);
@@ -42,6 +42,8 @@ void programa(int tam, struct poltrona cinema[tam][tam], char letra, int fileira
             default:
                 {
                 printf(" Opção não está no menu. \n");
+                system("pause");
+
                 break;
                 }
 
@@ -177,6 +179,7 @@ int menu(){
         printf(" 4. Sair do programa. \n");
         printf("-------------------------- \n");
         printf("Digite a opção desejada: ");
+        fflush(stdin);
         scanf("%d" , &opcao);
 
     return opcao;
